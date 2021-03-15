@@ -11,7 +11,9 @@
     .mySlides {
         display: none;
     }
-
+    .background{
+        background-color: antiquewhite;
+    }
     .prev,
     .next {
         cursor: pointer;
